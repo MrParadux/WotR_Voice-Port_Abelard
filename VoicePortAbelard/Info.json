@@ -1,0 +1,12 @@
+﻿{
+  "Id": "VoicePortAbelard",
+  "DisplayName": "Voice Port - Abelard",
+  "Author": "Paradux",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.27.11",
+  "Requirements": [],
+  "AssemblyName": "VoicePortAbelard.dll",
+  "EntryMethod": "VoicePortAbelard.Main.Load",
+  "HomePage": "https://github.com/MrParadux/WotR_Voice-Port_Abelard",
+  "Repository": "https://raw.githubusercontent.com/MrParadux/WotR_Voice-Port_Abelard/refs/heads/main/Repository.json"
+}
