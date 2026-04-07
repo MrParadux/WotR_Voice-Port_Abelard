@@ -7,6 +7,8 @@ It adds the voice barks from Warhammer 40k: Rogue Trader.
 
 No vanilla voice sets are being replaced, the new one will be added to the list.
 
+A portrait is also included in the zip file.
+
 ## Installation
 Download and install [Unity Mod Manager](https://www.nexusmods.com/site/mods/21).
 
